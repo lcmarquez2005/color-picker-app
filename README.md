@@ -1,4 +1,4 @@
-# 📌 Selector de Color RGB
+# 🎨 Selector de Color RGB
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow.svg)
 ![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-green.svg)
