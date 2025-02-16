@@ -3,8 +3,18 @@
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow.svg)
 ![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-green.svg)
 
-> 📖 Breve descripción del proyecto, sus objetivos y su propósito.
-Este proyecto consiste en el desarrollo de una aplicación web interactiva que permite a los usuarios seleccionar colores mediante controles deslizantes (sliders) para los valores Rojo (Red), Verde (Green) y Azul (Blue). Al ajustar estos valores, se actualizará un cuadro de vista previa con el color resultante y se mostrará su código RGB y hexadecimal en tiempo real.
+## 📌 Descripción
+Este es un proyecto simple pero útil que permite a los usuarios seleccionar colores mediante controles deslizantes para los valores **Rojo (R), Verde (G) y Azul (B)**. La aplicación actualiza dinámicamente un cuadro de vista previa y muestra los códigos **RGB** y **Hexadecimal** en tiempo real.
+
+---
+
+## 🎯 Características
+✅ Controles deslizantes para los valores **RGB**  
+✅ Vista previa del color en tiempo real  
+✅ Muestra los códigos **RGB** y **Hexadecimal**  
+✅ Botón para copiar el código **Hexadecimal** al portapapeles  
+✅ Diseño adaptable para móviles y escritorio  
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
