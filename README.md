@@ -1,19 +1,16 @@
-# 📌 Nombre del Proyecto
+# 📌 Selector de Color RGB
 
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow.svg)
 ![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-green.svg)
 
 > 📖 Breve descripción del proyecto, sus objetivos y su propósito.
-
+Este proyecto consiste en el desarrollo de una aplicación web interactiva que permite a los usuarios seleccionar colores mediante controles deslizantes (sliders) para los valores Rojo (Red), Verde (Green) y Azul (Blue). Al ajustar estos valores, se actualizará un cuadro de vista previa con el color resultante y se mostrará su código RGB y hexadecimal en tiempo real.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** [Java, JavaScript, Python, etc.]
-- **Frameworks/Bibliotecas:** [Spring Boot, React, Django, etc.]
-- **Base de Datos:** [MySQL, PostgreSQL, MongoDB, etc.]
-- **Otros:** [Docker, GitHub Actions, AWS, etc.]
+- **Lenguajes:** [HTML, CSS, JavaScript]
+- **Otros:** [ChatGPT]
 
 ---
 
@@ -22,53 +19,22 @@
 ### 🔽 Requisitos Previos
 
 Antes de empezar, asegúrate de tener instalados:
-- [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/) _(opcional)_
 
 ### 📥 Clonar el Proyecto
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/lcmarquez2005/color-picker-app.git
+cd color-picker-app
 ```
-
-### 🛠️ Instalación de Dependencias
-Si es un proyecto con npm:
-```bash
-npm install
-```
-Si usa Python:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Uso y Ejecución
-
-### ▶️ Modo Desarrollo
-```bash
-npm run dev # Para proyectos con Node.js
-python app.py # Para proyectos en Python
-```
-
-### 🏭 Modo Producción
-```bash
-npm run build
-```
-
 ---
 
 ## 🛠️ Estructura del Proyecto
 
 ```
 📂 nombre-del-proyecto
- ┣ 📂 src             # Código fuente
- ┣ 📂 public          # Recursos públicos
- ┣ 📂 tests           # Pruebas automatizadas
- ┣ 📄 README.md       # Documentación principal
- ┣ 📄 package.json    # Configuración de npm
- ┗ 📄 .gitignore      # Archivos ignorados en Git
+ ┣ 📂 css             # Código fuente
+ ┣ 📂 js          # Recursos públicos
+ ┗ 📄 index.html      # Archivo principal HTML
 ```
 
 ---
@@ -97,12 +63,10 @@ git commit -m "🐛 Arreglado bug en la autenticación"
 
 ## 🏆 Créditos
 
-Desarrollado por **[Tu Nombre](https://linkedin.com/in/tu-nombre)** ✨
+Desarrollado por **[Luis Carlos Marquez Strociak](https://linkedin.com/in/lcmarquez-strociak)** ✨
 
 - 🌐 **Website:** [tu-sitio.com](https://tu-sitio.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tu-nombre](https://linkedin.com/in/tu-nombre)
-- 🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)
-- 🎥 **YouTube:** [youtube.com/c/tu-canal](https://youtube.com/c/tu-canal)
+- 💼 **LinkedIn:** [linkedin.com/in/lcmarquez-strociak](www.linkedin.com/in/lcmarquez-strociak)
 
 ---
 
